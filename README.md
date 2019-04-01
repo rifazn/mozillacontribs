@@ -7,6 +7,7 @@ Webmaker is no longer an active Mozilla project. Back in 2013, when the project 
 # List
 + [One of my very first events](https://minhazratul.wordpress.com/2013/09/27/intro-to-web-a-webmaker-event-at-aiub/). You can see my picture [here](https://minhazratul.files.wordpress.com/2013/09/img_52011.jpg) (center).
 + [First ever event where I took a session](https://tanhaislam.wordpress.com/2013/09/15/maker-party-2013-maple-leafdhakabangladesh/)
++ My own [blog site](http://web.archive.org/web/20171027052923/https://rifaz.ghost.io)
 + [Blog posts written by me in Mozilla BD blog for sessions that I took](https://web.archive.org/web/20160720105217/blog.mozillabd.org/author/rifaz/)
 + [Software Freedom Day](https://tanhaislam.wordpress.com/2013/09/)
 + [Photos of a Maker Party held at the Jaago Foundation(a non-profit org)](http://www.flickr.com/photos/jaagofoundation/sets/72157647050094496)
