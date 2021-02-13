@@ -13,5 +13,6 @@ Webmaker is no longer an active Mozilla project. Back in 2013, when the project 
 + [Photos of a Maker Party held at the Jaago Foundation(a non-profit org)](http://www.flickr.com/photos/jaagofoundation/sets/72157647050094496)
 + [Maker Party in a University](https://srdesh.wordpress.com/2014/09/14/maker-party-at-aiub/)
 + [Some](https://groups.google.com/forum/#!topic/mozilla.community.bangladesh/ojUJ0j9l0vY) [discussions](https://lists.mozilla.org/pipermail/community-bangladesh/2015-January/002830.html) about [events](https://khalid547.wordpress.com/2015/01/)
++ [Picture! One of my very first pictures. This was taken whle I was describing HTML tags in AIUB](http://minhazratul.wordpress.com/2013/09/27/intro-to-web-a-webmaker-event-at-aiub/img_5118/)
 
 I was also invited to attend the Mozilla Summit 2013.
