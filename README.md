@@ -2,6 +2,13 @@
 Some of my contributions to the Mozilla's mission of Open Web are listed here. Not all can be listed as I couldn't gather all the links.
 
 # Description
+
+My work as a volunteer got me to host different bootcamps/workshops and deliver speeches in different local public/private universities. The aim of the bootcamps were to:
+
+  1. Teaching the participants basic to intermediate level web development.
+  2. Educating people about the good practices in web development, and also using the web, in general.
+  3. Helping the Mozilla/Firefox Clubs within the universities to carry out different Mozilla, free software related events.
+
 Webmaker is no longer an active Mozilla project. Back in 2013, when the project first started, the aim of the project was to teach people how to make things in the web. Mozilla created some easy-to-use tools so that more people could become _makers_ of the web, instead of being just _users_ of the web. We had a group in the Mozilla Bangladesh community that regularly arranged events in parts of the country (especially in universities). I was a very active member of our local Webmaker group. I was responsible for introducing the audience to the Mozilla tools and also start them off with their HTML/CSS journey by teaching them the basics. This repo is an attempt to curate the list of blogs and pictures that have me as a session taker in those events.
 
 # List
